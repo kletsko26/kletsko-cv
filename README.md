@@ -1,6 +1,3 @@
 # cv - curriculum vitae
-### vite+react+boxicons
-https://cv-mdato.vercel.app/
 
-### BACode by Marcelo Dato :: Full Stack Developer :: LingBodie
-https://bacode.com.ar
+This project is designed to create a digital Curriculum Vitae (CV) that showcases professional skills, work experience, education, and personal projects. The CV is created using modern web technologies to ensure responsiveness and accessibility.
