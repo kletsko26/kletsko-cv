@@ -22,7 +22,6 @@ const projectsData = {
   projects: [
     {
       title: "Apispa",
-      link: "apispa.com",
       describe:
         "Music Albums Explorer is a web application that allows users to browse albums, listen to music tracks, and get information about each album.",
       deploy: "https://apispa.vercel.app/users",
@@ -31,7 +30,6 @@ const projectsData = {
     },
     {
       title: "Lamoda",
-      link: "lamoda.com",
       describe:
         "Fashion Hub is a web application that allows users to browse, filter, and purchase clothing and accessories. The platform features a variety of brands and styles, providing a seamless shopping experience.",
       deploy: "#",
@@ -40,7 +38,6 @@ const projectsData = {
     },
     {
       title: "Notion",
-      link: "notion.com",
       describe:
         "Notion is a web application that allows users to create, manage, and organize their tasks efficiently. It provides a clean and intuitive interface for tracking daily activities and enhancing productivity.",
       deploy: "https://notion-ten-psi.vercel.app/login",
