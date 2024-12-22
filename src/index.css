@@ -498,7 +498,7 @@ img {
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content,
 .languages__content {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
 }
 .languages__content {
   gap: 0;
@@ -652,7 +652,7 @@ img {
   }
 
   .languages__content {
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   /* .experience__description{
