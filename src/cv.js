@@ -82,7 +82,7 @@ const experienceData = {
 // ========================= Languages
 const languageData = {
   title: "Languages",
-  languages: ["English - B2", "Russian - A1", "Belarusian -C2"],
+  languages: ["English - B2", "Belarusian - Native", "Russian - Native"],
 };
 
 export {
